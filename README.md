@@ -37,7 +37,7 @@ This project simulates a city environment with various elements such as building
 
 - Compile the project using the following command:
 
-````bash
+```bash
     g++ main.cpp -lGL -lGLU -lglut
 ```
 

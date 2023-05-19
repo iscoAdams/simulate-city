@@ -42,10 +42,10 @@ This project simulates a city environment with various elements such as building
 ```
 
 
-2.1. Alternatively, you can do the following:
-    2.1.1. configure your compiler to include openGl and Glut libraries, in my case i used apt-get to install the necessary libraries.
-    2.1.2. add a launch configration of the preferred compiler to the .vscode/launch.json file:
-    2.1.3. create tasks.json and add the following lines to .vscode/tasks.json file:
+### Alternatively, you can do the following:
+1. configure your compiler to include openGl and Glut libraries, in my case i used apt-get to install the necessary libraries.
+2. add a launch configration of the preferred compiler to the .vscode/launch.json file:
+3. create tasks.json and add the following lines to .vscode/tasks.json file:
 
 ```json
 {

@@ -97,6 +97,7 @@ This project simulates a city environment with various elements such as building
 - right click to move up
 - left click to move down
 - 'r' to reset the camera
+- 'z' to exit
 
 ## contributors
 

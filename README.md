@@ -2,7 +2,7 @@
 
 A simulation city project created using OpenGL, Glut and C++.
 
-![Project Screenshot](screenshot.jpg)
+![a screenshot for the window](screenshot.png)
 
 ## Description
 
@@ -39,6 +39,7 @@ This project simulates a city environment with various elements such as building
 
 ````bash
     g++ main.cpp -lGL -lGLU -lglut
+```
 
 
 2.1. Alternatively, you can do the following:
@@ -81,7 +82,9 @@ This project simulates a city environment with various elements such as building
 
 3. Run the simulation:
 
-./a.out
+```bash
+    ./a.out
+```
 
 ## contributors
 

@@ -107,11 +107,7 @@ This project simulates a city environment with various elements such as building
 - Kareem-salama
 - Nancy-khaled
 
-<<<<<<< HEAD
 
 ## Copyright and Credits
 This project includes code or ideas inspired by the work of [tars400](https://github.com/tars400/3Dcity-in-OpenGL). I would like to acknowledge their contributions and express my gratitude for their valuable work.
-=======
-## Copyright and Credits
-This project includes code or ideas inspired by the work of [tars400](https://github.com/tars400/3Dcity-in-OpenGL). I would like to acknowledge their contributions and express my gratitude for their valuable work.
->>>>>>> origin/master
+

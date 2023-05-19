@@ -41,8 +41,8 @@ This project simulates a city environment with various elements such as building
     g++ main.cpp -lGL -lGLU -lglut
 ```
 
-
 ### Alternatively, you can do the following:
+
 1. configure your compiler to include openGl and Glut libraries, in my case i used apt-get to install the necessary libraries.
 2. add a launch configration of the preferred compiler to the .vscode/launch.json file:
 3. create tasks.json and add the following lines to .vscode/tasks.json file:
@@ -78,13 +78,25 @@ This project simulates a city environment with various elements such as building
   ],
   "version": "2.0.0"
 }
-````
+```
 
 3. Run the simulation:
 
 ```bash
     ./a.out
 ```
+
+4. to enjoy the simulation, you can play with the following keys:
+
+- 'w' to move forward
+- 's' to move backward
+- 'a' to move left
+- 'd' to move right
+- 'q' to rotate left
+- 'e' to rotate right
+- right click to move up
+- left click to move down
+- 'r' to reset the camera
 
 ## contributors
 

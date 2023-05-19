@@ -551,6 +551,11 @@ void keyboard(unsigned char key, int x, int y) {
         gluPerspective(80.0, 1.0, 1.0, 600.0);
         glTranslatef(0.0, -15.0, -320.0);
         break;
+    case 'z': //escape
+        exit(0);
+        break;
+    default:
+        break;
     }
     display();
 }

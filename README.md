@@ -1,4 +1,4 @@
-# Project Name
+# Simulate-city
 
 A simulation city project created using OpenGL, Glut and C++.
 

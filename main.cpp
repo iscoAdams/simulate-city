@@ -552,6 +552,7 @@ void keyboard(unsigned char key, int x, int y) {
         glTranslatef(0.0, -15.0, -320.0);
         break;
     case 'z': //escape
+    case 'Z':
         exit(0);
         break;
     default:

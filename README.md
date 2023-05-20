@@ -1,6 +1,6 @@
 # Simulate-city
 
-A simulation city project created using OpenGL, Glut and C++.
+A city simulation project built using C++, OpenGL and Glut libraries.
 
 ![a screenshot for the window](screenshot.png)
 

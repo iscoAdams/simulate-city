@@ -20,6 +20,7 @@ This project simulates a city environment with various elements such as building
 - Glut library
 - C++ compiler (e.g., GCC)
 - c++ debugger (e.g, GDB)
+- c/c++ runner extensions (in case u r using vscode)
 
 ## Getting Started
 
@@ -42,7 +43,7 @@ This project simulates a city environment with various elements such as building
     g++ main.cpp -lGL -lGLU -lglut
 ```
 
-### Alternatively, you can do the following if u r using vscode:
+#### Alternatively, you can do the following if u r using vscode:
 
 - configure your compiler to include openGl and Glut libraries, in my case i used apt-get to install the necessary libraries to my env.
 - add a launch configration of the preferred compiler to .vscode/launch.json file:
@@ -81,16 +82,18 @@ This project simulates a city environment with various elements such as building
 }
 ```
 
-- to run the simulation
-   run the following command:
+3. run the simulation
+ 
+- to run the following command:
 ``` bash
 ./a.out
 ```
-a.out is the default assembly output file, but u can change it by compiling the cpp file via -o option.
+'a.out' is the default assembly output file, but u can change it by compiling the cpp file via -o option.
 
-   Alternatively u can run the file through ur c/c++ runner extension after u specify the binary file path in the launch configuration. 
+##### Alternatively u can run the file through ur c/c++ runner extension after u specify the binary file path in the launch configuration. 
 
-- to enjoy the simulation, you can play with the following keys:
+## usage
+#### to enjoy the simulation, you can play with the following keys:
 
 - 'w' to move forward
 - 's' to move backward

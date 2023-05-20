@@ -41,9 +41,9 @@ This project simulates a city environment with various elements such as building
     g++ main.cpp -lGL -lGLU -lglut
 ```
 
-### Alternatively, you can do the following:
+### Alternatively, you can do the following if u r using vscode:
 
-1. configure your compiler to include openGl and Glut libraries, in my case i used apt-get to install the necessary libraries.
+1. configure your compiler to include openGl and Glut libraries, in my case i used apt-get to install the necessary libraries to my env.
 2. add a launch configration of the preferred compiler to the .vscode/launch.json file:
 3. create tasks.json and add the following lines to .vscode/tasks.json file:
 

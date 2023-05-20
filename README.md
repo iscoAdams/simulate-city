@@ -110,7 +110,7 @@ This project simulates a city environment with various elements such as building
 
 - Yassa-Alqess
 - Mark-bahaa
-- Kero-magdy
+- Kirolos-magdy
 - Kareem-salama
 - Nancy-khaled
 
